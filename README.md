@@ -1,4 +1,4 @@
-# The goal of this project was to solve the Mpuntain Car and CartPole environments of Open AI Gym using Q Learning and Deep Q Learning.
+# The goal of this project was to solve the Mountain Car and CartPole environments of Open AI Gym using Deep Q Learning and Double Deep Q Learning.
 
 Both algorithms were implemented based on these papers:
 https://arxiv.org/pdf/1312.5602.pdf (Deep Q Learning)
